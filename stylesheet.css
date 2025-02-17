@@ -94,14 +94,14 @@ a {
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   font-size: 14px;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   font-size: 22px;
 }
 
@@ -114,7 +114,7 @@ h2 {
 .name {
   padding-top: 20px;
   margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   font-size: 32px;
 }
 
